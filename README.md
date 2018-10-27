@@ -69,7 +69,6 @@
 
 - [@kamalgarg28](https://github.com/kamalgarg28)
 
-- [@bitrish](https://github.com/bitrish)
 
 - [@GunaShekar02](https://github.com/GunaShekar02)
 
